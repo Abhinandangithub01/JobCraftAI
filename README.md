@@ -1,4 +1,4 @@
-# JobCraft AI - DevNetwork Hackathon 2025
+<img width="1902" height="1019" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/ed55dda3-1e03-466b-9eb1-05044087b07d" /><img width="1905" height="1023" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/389cf249-54fd-4626-a7f4-0946e1e45d97" /># JobCraft AI - DevNetwork Hackathon 2025
 
 AI-powered job application automation using Foxit's REST APIs and Google Gemini AI.
 
@@ -9,6 +9,21 @@ AI-powered job application automation using Foxit's REST APIs and Google Gemini 
 - **Foxit API Integration**: Leverage Document Generation API (sync) and PDF Services API (async)
 - **AI-Powered Matching**: Google Gemini analyzes job descriptions and tailors applications
 - **Document Optimization**: Merge, compress, and optimize final application packages
+
+<img width="1905" height="1023" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/5c32b765-54a8-48f3-a2a8-13be2c889871" />
+
+<img width="1905" height="1028" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/bc9af2aa-8958-41e5-9493-b33c8ae94fab" />
+
+<img width="1901" height="1026" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/b594df5b-9b0d-4311-9a82-25a1aa9a719a" />
+
+<img width="1896" height="1028" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/114b4c48-cdf1-4b57-99d2-5d12daade318" />
+
+<img width="1900" height="1017" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/f27e3840-e5b2-4043-a23c-4e4dd2e29031" />
+
+<img width="1902" height="1019" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/2681f22f-ca87-400d-96a3-5b1033e3f00d" />
+
+<img width="1916" height="1030" alt="Screenshot" src="https://github.com/user-attachments/assets/f79d5cc2-637c-4427-8f64-ab654d1c1e37" />
+
 
 ## 🏗️ Architecture
 
@@ -128,5 +143,6 @@ jobcraft-ai/
 - Personalized cover letter generation
 - Professional summary enhancement
 - Reference sheet automation
+
 
 
