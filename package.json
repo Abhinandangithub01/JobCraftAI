@@ -1,0 +1,25 @@
+{
+  "name": "jobcraft-ai",
+  "version": "1.0.0",
+  "description": "AI-powered job application automation using Foxit APIs and Google Gemini",
+  "main": "server/server.js",
+  "scripts": {
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "server": "cd server && nodemon server.js",
+    "client": "cd client && npm start",
+    "build": "cd client && npm run build",
+    "start": "cd server && node server.js",
+    "test": "node test-workflow.js"
+  },
+  "keywords": ["foxit", "ai", "job-application", "resume", "automation"],
+  "author": "JobCraft AI Team",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "fs-extra": "^11.1.1"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.0",
+    "nodemon": "^3.0.1"
+  }
+}
