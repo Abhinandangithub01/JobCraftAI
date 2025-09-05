@@ -1,4 +1,4 @@
-<img width="1902" height="1019" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/ed55dda3-1e03-466b-9eb1-05044087b07d" /><img width="1905" height="1023" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/389cf249-54fd-4626-a7f4-0946e1e45d97" /># JobCraft AI - DevNetwork Hackathon 2025
+#JobCraft AI - DevNetwork Hackathon 2025
 
 AI-powered job application automation using Foxit's REST APIs and Google Gemini AI.
 
@@ -143,6 +143,7 @@ jobcraft-ai/
 - Personalized cover letter generation
 - Professional summary enhancement
 - Reference sheet automation
+
 
 
 
