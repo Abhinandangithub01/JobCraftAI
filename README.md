@@ -129,6 +129,4 @@ jobcraft-ai/
 - Professional summary enhancement
 - Reference sheet automation
 
-## 📄 License
 
-MIT License - Built for DevNetwork Hackathon 2025
